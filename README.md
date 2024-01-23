@@ -49,3 +49,7 @@ python sample.py --image='png/example.png'
 
 ## Pretrained model
 If you do not want to train the model from scratch, you can use a pretrained models.
+
+## More about project
+
+Visit the following [link](https://drive.google.com/drive/folders/1m9veIH5FAYo31UeDyk63I-_Nbfcf3OWO?usp=drive_link)
